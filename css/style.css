@@ -23,10 +23,7 @@ section {
   height: 600px;
   padding-bottom: 150px;
 }
-.top-banner {
-  background-image: url("/images/top-banner.png");
-  background-repeat: no-repeat;
-}
+
 .first-half-width {
   width: 40%;
   float: left;
@@ -113,13 +110,7 @@ footer h3 {
 .coll {
   margin-left: 580px;
 }
-.lowerBottom-banner {
-  background-image: url("/images/exp-bg.png");
-  background-repeat: no-repeat;
-  height: 600px;
-  padding-bottom: 150px;
-  border: 1px solid white;
-}
+
 #full-stack {
   border-left: 7px solid;
   border-image: linear-gradient(180deg, rgb(179, 240, 11), tomato);
@@ -133,17 +124,7 @@ footer h3 {
   border-image-slice: 1;
   padding-left: 5px;
 }
-.lb-banner {
-  background-image: url("/shapes/Group_33094_1.png");
-  background-repeat: no-repeat;
 
-  background-position: top center;
-  background-size: 100%;
-  height: 100%;
-  width: 70%;
-  margin-left: 190px;
-  margin-top: 500px;
-}
 .single-experience {
   box-shadow: 10px 10px 40px gray;
   border-radius: 5px;
